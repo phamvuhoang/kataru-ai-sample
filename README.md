@@ -8,8 +8,8 @@ Follow these steps to set up and run the project locally.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/phamvuhoang/kataru-ai.git
-cd kataru-ai
+git clone https://github.com/phamvuhoang/kataru-ai-sample.git
+cd kataru-ai-sample
 ```
 
 ### 2. Install dependencies
